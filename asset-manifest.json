@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/comrades-docs/static/css/main.a9dbadc7.css",
-    "main.js": "/comrades-docs/static/js/main.8efd6c13.js",
+    "main.js": "/comrades-docs/static/js/main.3d7eecca.js",
     "index.html": "/comrades-docs/index.html",
     "main.a9dbadc7.css.map": "/comrades-docs/static/css/main.a9dbadc7.css.map",
-    "main.8efd6c13.js.map": "/comrades-docs/static/js/main.8efd6c13.js.map"
+    "main.3d7eecca.js.map": "/comrades-docs/static/js/main.3d7eecca.js.map"
   },
   "entrypoints": [
     "static/css/main.a9dbadc7.css",
-    "static/js/main.8efd6c13.js"
+    "static/js/main.3d7eecca.js"
   ]
 }
