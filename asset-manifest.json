@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comrades-docs/static/css/main.a9dbadc7.css",
+    "main.js": "/comrades-docs/static/js/main.b66fd8e7.js",
+    "index.html": "/comrades-docs/index.html",
+    "main.a9dbadc7.css.map": "/comrades-docs/static/css/main.a9dbadc7.css.map",
+    "main.b66fd8e7.js.map": "/comrades-docs/static/js/main.b66fd8e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9dbadc7.css",
+    "static/js/main.b66fd8e7.js"
+  ]
+}
